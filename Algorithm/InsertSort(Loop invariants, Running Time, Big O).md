@@ -146,8 +146,11 @@ print(insertSort(A)) #[2, 3, 4, 6, 8, 9]
 - insert sort의 running time은 input의 특성에 따라 달라진다.
 - 즉, 모든 inser sort는 O(n^2) under을 보장한다.
 
-## Practice Test
+### Practice Test
 
+<details>
+<summary>Practice Test</summary>
+      
 ### 문제1
 
 ![t1-1](https://user-images.githubusercontent.com/76714485/136055961-0bb3fff9-821b-45bb-b015-854e1a7d9032.png)
@@ -233,3 +236,7 @@ print(insertSort(A)) #[2, 3, 4, 6, 8, 9]
     L=[2,3,7,1]
     print(min_max_lin(L)) #(1,7)
     ```
+
+</details>
+
+
