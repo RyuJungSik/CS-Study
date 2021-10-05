@@ -146,7 +146,7 @@ print(insertSort(A)) #[2, 3, 4, 6, 8, 9]
 - insert sort의 running time은 input의 특성에 따라 달라진다.
 - 즉, 모든 inser sort는 O(n^2) under을 보장한다.
 
-### Practice Test
+## Practice Test
 
 <details>
 <summary>Practice Test</summary>
