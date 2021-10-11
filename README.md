@@ -6,3 +6,4 @@
 - [MergeSort](https://github.com/RyuJungSik/CS-Study/blob/main/Algorithm/MergeSort.md)
 - [Divide-and-Conquer, Recurrences](https://github.com/RyuJungSik/CS-Study/blob/main/Algorithm/Divide-and-Conquer%2C%20Recurrences.md)
 - [Maximum-subarray problem(Divide-and-Conquer)](https://github.com/RyuJungSik/CS-Study/blob/main/Algorithm/Divide-and-Conquer%2C%20Recurrences.md)
+= [QuickSort & BinarySearch](https://github.com/RyuJungSik/CS-Study/tree/main/Algorithm)
