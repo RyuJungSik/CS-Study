@@ -7,3 +7,4 @@
 - [Divide-and-Conquer, Recurrences](https://github.com/RyuJungSik/CS-Study/blob/main/Algorithm/Divide-and-Conquer%2C%20Recurrences.md)
 - [Maximum-subarray problem(Divide-and-Conquer)](https://github.com/RyuJungSik/CS-Study/blob/main/Algorithm/Maximum-subarray%20problem(Divide-and-Conquer).md)
 - [QuickSort & BinarySearch](https://github.com/RyuJungSik/CS-Study/blob/main/Algorithm/QuickSort%26BinarySearch.md)
+- [The longest common subsequence(Dynamic Programing)](https://github.com/RyuJungSik/CS-Study/blob/main/Algorithm/The%20longest%20common%20subsequence(Dynamic%20Programing).md)
