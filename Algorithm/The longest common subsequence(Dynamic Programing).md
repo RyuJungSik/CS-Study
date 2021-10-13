@@ -24,10 +24,10 @@ Dynamic Programming → 좀더 효과적이다.
 ### 배경
 
 - EX) 두가지의 염색체가 얼만큼 "similarity"있는지 판단.
-s1=ACCGGTCGAGTGCGCGGAA
-s2=GTCGTTCGGAATGCCGTTG 일때
-아래 그림처럼 s1,s2의 subsequence의 공통이 길수록 높아진다.
-순서는 같고 연속일 필요는 없다.
+    - s1=ACCGGTCGAGTGCGCGGAA
+    - s2=GTCGTTCGGAATGCCGTTG 일때
+    - 아래 그림처럼 s1,s2의 subsequence의 공통이 길수록 높아진다.
+    - 순서는 같고 연속일 필요는 없다.
     
     ![6-1](https://user-images.githubusercontent.com/76714485/137087918-0135655a-0c05-4605-a24a-3c32ae796698.png)
 
