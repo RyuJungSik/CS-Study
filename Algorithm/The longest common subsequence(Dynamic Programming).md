@@ -1,4 +1,4 @@
-# The longest common subsequence(Dynamic Programing)
+# The longest common subsequence(Dynamic Programming)
 
 ## Dynamic Programming
 
