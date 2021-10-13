@@ -3,7 +3,7 @@
 ## Divide-and-Conquer
 
 - **여러개의 design paradigms이 존재한다.**
-    - incremental approach(EX Inserion sort)
+    - incremental approach(EX Insert sort)
     - Divide-and-conquer
     - Greedy-algorightms
     - Dynamic-programming
@@ -12,7 +12,7 @@
     - **Conquer :** 여러 작은 문제를 recursively하게 푼다. 충분히 작으면 직접 푼다.
     - **Combine :** 작은 문제들을 ****원래 문제로 되돌아가게 합친다.
 - **Divide-and-conquer(Merge Sort)**
-    - **Divide :** 배열을 n/2로 나눈다.ㄴ
+    - **Divide :** 배열을 n/2로 나눈다.
     - **Conquer :** 
     만약 배열의 길이가 1이면 sorted되어 있는 것이다.
     그렇지 않으면 merge sort를 재귀적으로 부른다.
