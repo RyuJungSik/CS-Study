@@ -25,15 +25,15 @@
     - 그리고 그거 스스로 작은 inputs을 갖는다.
 - recurrence의 예시
     - EX1)
-    T(n)=
-    {1} (n=1)
-    {T(n-1)+1} (n>1)
-    solution → T(n)=n
+        - T(n)=
+        - {1} (n=1)
+        - {T(n-1)+1} (n>1)
+        - solution → T(n)=n
     - EX2)
-    T(n)=
-    {1} (n=1)
-    {2T(n/2)+n}(n>1)
-    solution → T(n)=nlgn+n
+        - T(n)=
+        - {1} (n=1)
+        - {2T(n/2)+n}(n>1)
+        - solution → T(n)=nlgn+n
 - Divide-and-conquer의 recurrence
     
     ![3-3](https://user-images.githubusercontent.com/76714485/136391368-a2d4a32b-a836-4436-8fad-9a0f8bab6b24.png)
