@@ -1,6 +1,6 @@
 # Sorting Problem
 
-## Sorting Problem
+## Insert Sort
 
 - input : sequence <a1, a2,...an> of numbers [2,5,3,6]
 - output : permutation <a'1,a'2...a'n> 단 a'1≤a'2≤...a'n [2,3,5,6]
